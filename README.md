@@ -1,0 +1,1 @@
+Read this repo with Typora. I have had enough of markdown equation rendering of Github.
