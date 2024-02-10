@@ -1,1 +1,1 @@
-Read this repo with Typora. I have had enough of markdown equation rendering of Github.
+Read this repo with Typora or Obsidian. I have had enough of Github inline equation rendering.
